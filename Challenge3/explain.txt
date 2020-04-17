@@ -1,0 +1,8 @@
+Time Complexity: O(n)
+
+My solution uses first, a function that will go through and find the leftmost node to start at, and then a function that 
+actually connects each node at a level. The root of a tree will always have the next pointer set to NULL since it is the
+only node at that level, and then while a node has children, its children will will be linked up. My solution is iterative
+and a nested loop is used. First, one loop goes through levels while the second goes through nodes. Time complexity is
+O(n) and increases with the number of nodes on the tree linearly.
+
