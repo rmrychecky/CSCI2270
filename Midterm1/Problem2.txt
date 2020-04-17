@@ -1,0 +1,16 @@
+The test cases I ran were as follows
+//TEST CASES
+//test normal ist
+//test empty list
+//check just even list
+//check just odd list
+//check if the entered values are not integers
+
+
+I checked first a noraml list with both even and odd numbers and they were sorted correctly
+I then checked an empty list and my function printed the list was empty and displayed an empty list
+Then i check just and even list and the odd list was null while the even one had the values in the original linked list
+I did the same with an odd list next
+then i made sure my function could handle any invalid input
+
+I wrote my code in Cloud 9 and everything should work/compile.

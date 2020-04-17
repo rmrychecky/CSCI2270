@@ -1,0 +1,6 @@
+The output of my program is shown in the screen shot included in this zip file. I decided to implement this funciton
+using a helper function in order to be able to access the root node. I perfomed this function in a recursive manner for max 
+efficency. The helper is called  int sumRangeHelper(int min, int max), is public and takes in the max and min. The main sumRange 
+function is private and also takes in the root node. I tested on the two examples given, and i tested to make 
+sure when there were no nodes in the range, that the function is just 0. I also tested on an empty tree and got the right answers.
+I created my code in cloud 9.

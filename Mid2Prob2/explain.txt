@@ -1,0 +1,2 @@
+i understand the concept completely just ran out of time to implement. I my heapify was not working so things weren't printing out correctly. I was tyring to insert in to the heap
+and its min property would make the array work.

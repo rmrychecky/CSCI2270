@@ -1,0 +1,3 @@
+The following is my attempt at problem 3.
+
+I had the print and insert functions working but didnt quite finish shift. I believe I could be eligible for partial credit.

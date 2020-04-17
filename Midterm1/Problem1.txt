@@ -1,0 +1,12 @@
+The test cases I ran were as follows
+  //TEST CASES
+  //check their examples
+  //all even
+  //all odd 
+  //empty list
+
+If it was an all even list I expected every value to be sumed which happened
+If it was an all odd list I expected a sum of 0 which happened
+The examples given also returned the expected values and when the list was empty I got 0 as a returned sum.
+
+I wrote my code in Cloud 9 and everything shoudl work/complie.
